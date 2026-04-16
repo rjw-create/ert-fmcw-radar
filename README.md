@@ -154,7 +154,7 @@ The enclosure is 3D-printed in 7 interlocking sections (the design exceeded sing
 - **ERT rail** — female dovetail block with 4 probe insertion holes
 - **Velcro retention** — replaced thumb screws after iteration; easier field access
 
-CAD was done in SolidWorks. Engineering drawings are in `docs/images/`.
+CAD was done in Inventor. Engineering drawings are in `docs/images/`.
 
 ---
 
@@ -184,7 +184,7 @@ The project went through **5 prototype iterations**, evolving from a conceptual 
 - **Arduino IDE** — Firmware development
 - **MATLAB** — Initial data capture and serial acquisition
 - **Python / SciPy / Matplotlib** — Open-source analysis pipeline
-- **SolidWorks** — Mechanical CAD and engineering drawings
+- **Inventor** — Mechanical CAD and engineering drawings
 
 ---
 
